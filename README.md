@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Information Technology student at University of Jyväskylä and a Full Stack Software Developer currently working at Pinja. My professional passion is in Information security & Offensive security though in free time I also enjoy working with various technologies, Hifi equipment and cars.
+
 <!--
 **laveez/laveez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
