@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Cyber Security student at [University of Jyväskylä](https://www.jyu.fi/en) and a Full Stack Software Developer currently working at [Gofore](https://gofore.com/en/). My professional passion is in Information security & Offensive security though in free time I also enjoy working with various technologies, Hifi equipment and cars.
+I am a Cyber Security student at [University of Jyväskylä](https://www.jyu.fi/en) and a Lead Software Developer currently working at [Gofore](https://gofore.com/en/). My professional passion is in Information security & Offensive security though in free time I also enjoy working with various technologies, Hifi equipment and cars.
 
 You can find more information about me on my [personal page](https://laveez.github.io/) or [LinkedIn-page](https://www.linkedin.com/in/niko-muukkonen/)!
 
