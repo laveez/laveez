@@ -1,4 +1,4 @@
-Lead Developer currently working at [Gofore](https://gofore.com/en/)
+Developer currently working at [Reaktor](https://www.reaktor.com/)
 
 You can find more information about me on my [personal page](https://laveez.github.io/) or [LinkedIn-page](https://www.linkedin.com/in/niko-muukkonen/)
 
