@@ -1,4 +1,4 @@
-Currently building in-flight entertainment systems at [Reaktor](https://www.reaktor.com/).
+Currently developing in-flight entertainment systems at [Reaktor](https://www.reaktor.com/).
 I like building things that solve real problems.
 
 #### Projects
