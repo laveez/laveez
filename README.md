@@ -13,7 +13,6 @@ I like building things that solve real problems.
 - **[disobeyfi/public-www](https://github.com/disobeyfi/public-www)** — [Disobey.fi](https://disobey.fi/2026/) website
 - And many more..
 
-#### Languages & Techs
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-b07219?style=flat&logoColor=white)
