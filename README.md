@@ -10,6 +10,7 @@ I like building things that solve real problems.
 - **[ccsl](https://github.com/laveez/ccsl)** — Statusline for Claude Code
 - **[splitr](https://github.com/laveez/splitr)** — Receipt splitting with OCR
 - **[ammus](https://github.com/laveez/ammus)** — Ammunition price comparison
+- **[simple-timeline](https://github.com/laveez/simple-timeline)** — Simple timeline tool with python CLI and a web version
 - **[disobeyfi/public-www](https://github.com/disobeyfi/public-www)** — [Disobey.fi](https://disobey.fi/2026/) website
 - And many more..
 
