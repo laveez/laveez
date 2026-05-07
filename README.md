@@ -32,5 +32,3 @@ I like building things that solve real problems.
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-fc6d26?style=flat&logo=gitlab&logoColor=white)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laveez&theme=darcula&hide_border=true" alt="GitHub Streak" /></a>
