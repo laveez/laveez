@@ -6,10 +6,8 @@ I like building things that solve real problems.
 
 #### Projects
 
-- **[olsvr](https://github.com/laveez/olsvr)** — OLED burn-in prevention for Wayland
+- **[olsvr](https://github.com/laveez/olsvr)** — OLED burn-in prevention
 - **[ccsl](https://github.com/laveez/ccsl)** — Statusline for Claude Code
-- **[splitr](https://github.com/laveez/splitr)** — Receipt splitting with OCR
-- **[ammus](https://github.com/laveez/ammus)** — Ammunition price comparison
 - **[timelines](https://github.com/laveez/timelines)** — Simple timeline tool with a python CLI and a web version
 - **[disobeyfi/public-www](https://github.com/disobeyfi/public-www)** — [Disobey.fi](https://disobey.fi/2026/) website
 - And many more..
