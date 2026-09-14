@@ -6,7 +6,7 @@ I like building things that solve real problems.
 
 #### Projects
 
-- **[olsvr](https://github.com/laveez/olsvr)** — OLED burn-in prevention
+- **[olsvr](https://github.com/laveez/olsvr)** — Simple screensaver for OLED burn-in prevention
 - **[ccsl](https://github.com/laveez/ccsl)** — Statusline for Claude Code
 - **[timelines](https://github.com/laveez/timelines)** — Simple timeline tool with a python CLI and a web version
 - **[disobeyfi/public-www](https://github.com/disobeyfi/public-www)** — [Disobey.fi](https://disobey.fi/2026/) website
