@@ -9,7 +9,7 @@ I like building things that solve real problems.
 - **[olsvr](https://github.com/laveez/olsvr)** — Simple screensaver for OLED burn-in prevention
 - **[ccsl](https://github.com/laveez/ccsl)** — Statusline for Claude Code
 - **[timelines](https://github.com/laveez/timelines)** — Simple timeline tool with a python CLI and a web version
-- **[disobeyfi/public-www](https://github.com/disobeyfi/public-www)** — [Disobey.fi](https://disobey.fi/2026/) website
+- **[disobeyfi/public-www](https://github.com/disobeyfi/public-www)** — [Disobey.fi](https://disobey.fi/) website ([2026](https://disobey.fi/2026/), 2027)
 - And many more..
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
