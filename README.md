@@ -1,7 +1,3 @@
-Full stack developer at [Reaktor](https://www.reaktor.com/).
-
-End-to-end experience in designing, developing and delivering web and mobile software. Leading development teams and consulting the agile way, with Scrum and Kanban, from small companies to multinational multi-vendor projects. Working with the latest LLM and agentic AI tooling and methods across client projects, open source, volunteer work and personal tools. Love building things that solve real problems.
-
 <a href="https://laveez.github.io/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://laveez.github.io/card-dark.png">
@@ -9,6 +5,10 @@ End-to-end experience in designing, developing and delivering web and mobile sof
     <img src="https://laveez.github.io/card-dark.png" alt="Niko Muukkonen, full stack developer at Reaktor. Open laveez.github.io" width="560">
   </picture>
 </a>
+
+Full stack developer at [Reaktor](https://www.reaktor.com/).
+
+End-to-end experience in designing, developing and delivering web and mobile software. Leading development teams and consulting the agile way, with Scrum and Kanban, from small companies to multinational multi-vendor projects. Working with the latest LLM and agentic AI tooling and methods across client projects, open source, volunteer work and personal tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/niko-muukkonen/)
 
