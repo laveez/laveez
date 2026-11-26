@@ -1,8 +1,8 @@
 <a href="https://laveez.github.io/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://laveez.github.io/card-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://laveez.github.io/card-light.png">
-    <img src="https://laveez.github.io/card-dark.png" alt="Niko Muukkonen, full stack developer at Reaktor. Open laveez.github.io" width="560">
+    <source media="(prefers-color-scheme: dark)" srcset="https://laveez.github.io/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://laveez.github.io/banner-light.png">
+    <img src="https://laveez.github.io/banner-dark.png" alt="Niko Muukkonen, full stack developer at Reaktor. Open laveez.github.io" width="560">
   </picture>
 </a>
 
