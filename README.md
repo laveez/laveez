@@ -10,6 +10,8 @@ End-to-end experience in designing, developing and delivering web and mobile sof
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/niko-muukkonen/)
 
+---
+
 #### Projects
 
 - **[olsvr](https://github.com/laveez/olsvr)** — Simple screensaver for OLED burn-in prevention
