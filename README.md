@@ -1,6 +1,6 @@
 Full stack developer at [Reaktor](https://www.reaktor.com/).
 
-I build web and mobile software end to end, and lead the teams doing it when needed. I work with the latest LLM and agentic AI tooling and methods on client projects, in open source and volunteer work, and on whatever I need for my own work and free time. I like building things that solve real problems.
+End-to-end experience in designing, developing and delivering web and mobile software. Leading development teams and consulting the agile way, with Scrum and Kanban, from small companies to multinational multi-vendor projects. Working with the latest LLM and agentic AI tooling and methods across client projects, open source, volunteer work and personal tools. Love building things that solve real problems.
 
 [![Visit my site: laveez.github.io](https://img.shields.io/badge/Visit_my_site-laveez.github.io-E7FE4D?style=for-the-badge&labelColor=141414)](https://laveez.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/niko-muukkonen/)
