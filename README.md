@@ -15,4 +15,4 @@ I build web and mobile software end to end, and lead the teams doing it when nee
 
 #### Working with
 
-React, TypeScript & Kotlin · Java, C#, PHP & SQL · Claude Code, Codex & GitHub Copilot · Cloud, CI/CD & infrastructure · Agile leadership & teamwork
+React, TypeScript & Kotlin · Java, C#, PHP & SQL · Agentic AI & LLM tooling (Claude, Copilot) · Cloud, CI/CD & infrastructure · Agile leadership & teamwork
