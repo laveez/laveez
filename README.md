@@ -1,8 +1,9 @@
-Developer at [Reaktor](https://www.reaktor.com/).
-I like building things that solve real problems.
+Full stack developer at [Reaktor](https://www.reaktor.com/).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niko-muukkonen/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://laveez.github.io/)
+I build web and mobile software end to end, and lead the teams doing it when needed. I work with the latest LLM and agentic AI tooling and methods on client projects, in open source and volunteer work, and on whatever I need for my own work and free time. I like building things that solve real problems.
+
+[![Visit my site: laveez.github.io](https://img.shields.io/badge/Visit_my_site-laveez.github.io-E7FE4D?style=for-the-badge&labelColor=141414)](https://laveez.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/niko-muukkonen/)
 
 #### Projects
 
@@ -10,23 +11,8 @@ I like building things that solve real problems.
 - **[ccsl](https://github.com/laveez/ccsl)** — Statusline for Claude Code
 - **[timelines](https://github.com/laveez/timelines)** — Simple timeline tool with a python CLI and a web version
 - **[disobeyfi/public-www](https://github.com/disobeyfi/public-www)** — [Disobey.fi](https://disobey.fi/) website ([2026](https://disobey.fi/2026/), 2027)
-- And many more..
+- [And many more](https://github.com/laveez?tab=repositories)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/Java-b07219?style=flat&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=000)
-![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3ddc84?style=flat&logo=android&logoColor=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-cc2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat&logo=amazonwebservices&logoColor=000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-fc6d26?style=flat&logo=gitlab&logoColor=white)
+#### Working with
+
+React, TypeScript & Kotlin · Java, C#, PHP & SQL · Claude Code, Codex & GitHub Copilot · Cloud, CI/CD & infrastructure · Agile leadership & teamwork
