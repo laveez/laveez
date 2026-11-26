@@ -1,4 +1,4 @@
-Currently developing in-flight entertainment systems at [Reaktor](https://www.reaktor.com/).
+Developer at [Reaktor](https://www.reaktor.com/).
 I like building things that solve real problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niko-muukkonen/)
