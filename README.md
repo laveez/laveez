@@ -6,8 +6,6 @@
   </picture>
 </a>
 
-Full stack developer at [Reaktor](https://www.reaktor.com/).
-
 End-to-end experience in designing, developing and delivering web and mobile software. Leading development teams and consulting the agile way, with Scrum and Kanban, from small companies to multinational multi-vendor projects. Working with the latest LLM and agentic AI tooling and methods across client projects, open source, volunteer work and personal tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/niko-muukkonen/)
